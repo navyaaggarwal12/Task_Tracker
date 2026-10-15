@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Java Project",
+        "category": "College",
+        "priority": "High",
+        "due_date": "No deadline",
+        "date": "08 Oct 2026, 02:50 PM",
+        "status": "Completed",
+        "notes": ""
+    },
+    {
+        "title": "Java",
+        "category": "Personal",
+        "priority": "Medium",
+        "due_date": "08-10-2026 06:00 PM",
+        "date": "08 Oct 2026, 02:52 PM",
+        "status": "Completed",
+        "notes": ""
+    },
+    {
+        "title": "Python",
+        "category": "Work",
+        "priority": "Medium",
+        "due_date": "08-10-2026 02:54 PM",
+        "date": "08 Oct 2026, 02:53 PM",
+        "status": "Completed",
+        "notes": ""
+    },
+    {
+        "title": "DBMS",
+        "category": "College",
+        "priority": "Low",
+        "due_date": "No deadline",
+        "date": "08 Oct 2026, 03:06 PM",
+        "status": "Completed",
+        "notes": ""
+    },
+    {
+        "title": "Assignment",
+        "category": "College",
+        "priority": "Medium",
+        "due_date": "No deadline",
+        "date": "14 Oct 2026, 08:59 PM",
+        "status": "Completed",
+        "notes": ""
+    }
+]
